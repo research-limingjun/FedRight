@@ -1,0 +1,26 @@
+{
+	"model_name" : "LeNet",
+
+	"no_iid" : "no",
+
+	"free_riders" :0,
+
+	"free_riders_type" : "",
+
+	"dataset" : "mnist",
+
+	"beta": 0.5,
+
+	"global_epochs" :80,
+
+	"local_epochs" :3,
+
+	"k" :5,
+
+	"batch_size" : 32,
+
+	"lr" : 0.005,
+
+	"momentum" : 0.0001,
+
+}
